@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Python dev</h1>
 <h3 align="center">A passionate Backend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **artificial intelligence**
-
-- 🌱 I’m currently learning **artificial intelligence**
-
-- 🤝 I’m looking for help with **Web**
+- 🔭 I’m currently working on **Cyber security**
 
 - 💬 Ask me about **simple python**
 
