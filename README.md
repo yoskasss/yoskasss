@@ -4,8 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **Cyber Security**  
-- 💬 Ask me about **Python & Backend Development**  
-- 🌱 Currently learning **Go & Machine Learning**  
+- 💬 Ask me about **Python & Backend Development**    
 
 ---
 
@@ -41,4 +40,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoskasss&show_icons=true&theme=radical" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskasss&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+---
+
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yoskasss&theme=radical" alt="streak"/>
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoskasss&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
