@@ -39,6 +39,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUsername&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yoskasss&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskasss&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
